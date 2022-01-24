@@ -9,12 +9,12 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m also learning JavaScript and another tools for ecosystem of React ![React](icons/react-js.svg)
+- 💪 I like to write code;
+- 🥅 I am constantly learning new things;
 - 💬 Ask me about anything, I am happy to help;
+- In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺);
 - 📫 How to reach me: izaspenec@gmail.com;
 - 📝 [Resume](https://myresume.ru/resume/4Iec61JxKoy/).
-
-
 
 ### My contacts: ###
 [![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/siarhei1607)
